@@ -1,0 +1,8 @@
+{
+  "name": "MyExtractApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id":"revo"
+}
